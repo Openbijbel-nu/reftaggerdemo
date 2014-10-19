@@ -67,8 +67,6 @@
  		// choose default translation
  		chooseTranslation("NIV");
 
-	  $("a.rtBibleRef").css("background-color","black").css("color","white");
-
  	}
 
  	// execute the main function
